@@ -5,7 +5,7 @@
 
 ---
 server:
-    port: 8201
+    port: 8205
 
 spring:
     profiles: dev
